@@ -9,6 +9,11 @@
 ### animation CSS 
 <br> <code> <b>  ``` $:> npm install animate.css --save ```</b></code>
 <br>
+*** App.js **
+import 'animate.css';
+
+className = " animate_animated" 
+
 #### Index.html (Public)
 *** Bootstrap CSS**
 ```
