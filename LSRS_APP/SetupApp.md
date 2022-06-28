@@ -16,7 +16,21 @@
 *** copy method 
 className = " animate_animated animate__fadeIn" 
 
-#### Index.html (Public)
+
+### React Transition Group 
+[Motion]([https://animate.style/](https://reactcommunity.org/react-transition-group/))
+<br> <code> <b>  ``` $:>npm install react-transition-group --save ```</b></code>
+<br>
+*** App.js **
+<br> <code> <b>  ```  import {
+  CSSTransition,
+  SwitchTransition,
+} from 'react-transition-group';  ```</b></code>
+<br>
+
+
+
+#### App.js
 *** Bootstrap CSS
 ```
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous"/>
