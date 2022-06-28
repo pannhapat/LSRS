@@ -7,15 +7,17 @@
  <br> <code> $:> npx create-react-app projectname </b> </code>
  
 ### animation CSS 
+[animation CSS](https://animate.style/)
 <br> <code> <b>  ``` $:> npm install animate.css --save ```</b></code>
 <br>
 *** App.js **
-import 'animate.css';
-
-className = " animate_animated" 
+<br> <code> <b>  ```  import 'animate.css';  ```</b></code>
+<br>
+*** copy method 
+className = " animate_animated animate__fadeIn" 
 
 #### Index.html (Public)
-*** Bootstrap CSS**
+*** Bootstrap CSS
 ```
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous"/>
 ```
