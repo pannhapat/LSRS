@@ -6,6 +6,9 @@
  <br> or 
  <br> <code> $:> npx create-react-app projectname </b> </code>
  
+### animation CSS 
+<br> <code> <b>  ``` $:> npm install animate.css --save ```</b></code>
+<br>
 #### Index.html (Public)
 *** Bootstrap CSS**
 ```
