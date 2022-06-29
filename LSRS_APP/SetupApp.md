@@ -51,4 +51,17 @@ className = " animate_animated animate__fadeIn"
 <link href="https://fonts.googleapis.com/css2?family=Niramit:wght@200;300;400;500&display=swap" rel="stylesheet">
 ```
 
+### Deploy 
+
+*** build folder
+
+<br> <code> <b>  ``` $:>npm run build ```</b></code>
+
+### Surge 
+
+[Surge](https://surge.sh/help/getting-started-with-surge)
+<br> <code> <b>  ``` $:>npm install --global surge```</b></code>
+
+<br> <code> <b>  ``` $:>surge```</b></code>
+<br> <code> <b>  ``` email password type "build" and enter url ```</b></code>
 
