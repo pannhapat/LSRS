@@ -17,8 +17,10 @@
 className = " animate_animated animate__fadeIn" 
 
 
-### React Transition Group 
-[Motion]([https://animate.style/](https://reactcommunity.org/react-transition-group/))
+### React Transition Group
+
+[Motion](https://reactcommunity.org/react-transition-group/)
+
 <br> <code> <b>  ``` $:>npm install react-transition-group --save ```</b></code>
 <br>
 *** App.js **
@@ -28,6 +30,10 @@ className = " animate_animated animate__fadeIn"
 } from 'react-transition-group';  ```</b></code>
 <br>
 
+### react-toastify
+[react-toastify]([https://reactcommunity.org/react-transition-group/](https://www.npmjs.com/package/react-toastify))
+<br>
+<br> <code> <b>  ``` $:>npm i react-toastify</b></code>
 
 
 #### App.js
