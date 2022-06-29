@@ -31,7 +31,8 @@ className = " animate_animated animate__fadeIn"
 <br>
 
 ### react-toastify
-[react-toastify]([https://reactcommunity.org/react-transition-group/](https://www.npmjs.com/package/react-toastify))
+
+[react-toastify](https://www.npmjs.com/package/react-toastify)
 <br>
 <br> <code> <b>  ``` $:>npm i react-toastify</b></code>
 
